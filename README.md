@@ -14,6 +14,7 @@ first:
 
 optional:
 $ yay playonlinux
+<br>
 $ winetricks corefonts
 <br>
 <br>

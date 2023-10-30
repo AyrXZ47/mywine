@@ -13,6 +13,7 @@ first:
 <br>
 
 optional:
+<br>
 $ yay playonlinux
 <br>
 $ winetricks corefonts
